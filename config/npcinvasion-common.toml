@@ -1,0 +1,26 @@
+#General settings
+[General]
+	#The chance a 'No Spicy!' plays instead it's gets chosen (0.01 = 1%, 0.5 = 50%)[default: 0.01]
+	# Default: 0.02
+	# Range: 0.001 ~ 1.0
+	spicyChance = 0.02
+	#What sound to replace with 'No Spicy!'
+	noSpicy = ["minecraft:entity.creeper.primed"]
+	#The chance a 'Ice Cream So Good' plays instead it's gets chosen (0.01 = 1%, 0.5 = 50%)[default: 0.01]
+	# Default: 0.05
+	# Range: 0.001 ~ 1.0
+	icecreamChance = 0.05
+	#What sound to replace with 'Ice Cream So Good!'
+	icecream = ["minecraft:entity.creeper.primed"]
+	#The chance a 'Gang Gang' plays instead it's gets chosen (0.01 = 1%, 0.5 = 50%)[default: 0.01]
+	# Default: 0.03
+	# Range: 0.001 ~ 1.0
+	ganggangChance = 0.03
+	#What sound to replace with 'Gang Gang'
+	ganggang = ["minecraft:entity.creeper.primed"]
+	#The chance a 'Yippee' plays instead it's gets chosen (0.01 = 1%, 0.5 = 50%)[default: 0.01]
+	# Default: 0.04
+	# Range: 0.001 ~ 1.0
+	yippeeChance = 0.04
+	#What sound to replace with 'Yippeee'
+	yippee = ["minecraft:entity.generic.explode"]

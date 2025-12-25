@@ -1,0 +1,1605 @@
+{
+  "version": 2,
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "Value is the item. It also accepts item components. The default config has an example with a harming potion",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": [
+    {
+      "value": "ae2:certus_quartz_axe",
+      "weight": 2596374,
+      "quality": 98.80672
+    },
+    {
+      "value": "ae2:certus_quartz_sword",
+      "weight": 7550912,
+      "quality": 85.10931
+    },
+    {
+      "value": "ae2:fluix_axe",
+      "weight": 2237839,
+      "quality": 99.83758
+    },
+    {
+      "value": "ae2:fluix_sword",
+      "weight": 6002254,
+      "quality": 89.28101
+    },
+    {
+      "value": "ae2:nether_quartz_axe",
+      "weight": 2596374,
+      "quality": 98.80672
+    },
+    {
+      "value": "ae2:nether_quartz_sword",
+      "weight": 7550912,
+      "quality": 85.10931
+    },
+    {
+      "value": "block_factorys_bosses:dagger",
+      "weight": 12743120,
+      "quality": 71.851074
+    },
+    {
+      "value": "block_factorys_bosses:knight_sword",
+      "weight": 1552349,
+      "quality": 101.823364
+    },
+    {
+      "value": "block_factorys_bosses:large_sword",
+      "weight": 1673808,
+      "quality": 101.47009
+    },
+    {
+      "value": "block_factorys_bosses:warrior_sword",
+      "weight": 5306046,
+      "quality": 91.18895
+    },
+    {
+      "value": "born_in_chaos_v1:birch_branches",
+      "weight": 23068636,
+      "quality": 48.818996
+    },
+    {
+      "value": "born_in_chaos_v1:carrot_sword",
+      "weight": 5712966,
+      "quality": 90.071335
+    },
+    {
+      "value": "born_in_chaos_v1:dark_ritual_dagger",
+      "weight": 6860967,
+      "quality": 86.95551
+    },
+    {
+      "value": "born_in_chaos_v1:darkwarblade",
+      "weight": 1267968,
+      "quality": 102.65292
+    },
+    {
+      "value": "born_in_chaos_v1:frostbitten_blade",
+      "weight": 6617653,
+      "quality": 87.61133
+    },
+    {
+      "value": "born_in_chaos_v1:great_reaper_axe",
+      "weight": 1859603,
+      "quality": 100.93086
+    },
+    {
+      "value": "born_in_chaos_v1:icy_sweetness",
+      "weight": 6151135,
+      "quality": 88.87563
+    },
+    {
+      "value": "born_in_chaos_v1:intoxicating_dagger",
+      "weight": 6617653,
+      "quality": 87.61133
+    },
+    {
+      "value": "born_in_chaos_v1:nightmare_scythe",
+      "weight": 2518316,
+      "quality": 99.03068
+    },
+    {
+      "value": "born_in_chaos_v1:nut_hammer",
+      "weight": 11299206,
+      "quality": 75.42549
+    },
+    {
+      "value": "born_in_chaos_v1:sharpened_dark_metal_sword",
+      "weight": 4684831,
+      "quality": 92.90839
+    },
+    {
+      "value": "born_in_chaos_v1:shell_mace",
+      "weight": 3510351,
+      "quality": 96.20309
+    },
+    {
+      "value": "born_in_chaos_v1:skullbreaker_hammer",
+      "weight": 1625589,
+      "quality": 101.61026
+    },
+    {
+      "value": "born_in_chaos_v1:soul_cutlass",
+      "weight": 6923981,
+      "quality": 86.78608
+    },
+    {
+      "value": "born_in_chaos_v1:soulbane",
+      "weight": 1554142,
+      "quality": 101.81813
+    },
+    {
+      "value": "born_in_chaos_v1:spider_bite_sword",
+      "weight": 6562353,
+      "quality": 87.76073
+    },
+    {
+      "value": "born_in_chaos_v1:spiritual_sword",
+      "weight": 10529092,
+      "quality": 77.36736
+    },
+    {
+      "value": "born_in_chaos_v1:supreme_measure",
+      "weight": 101,
+      "quality": 106.392334
+    },
+    {
+      "value": "born_in_chaos_v1:sweet_axe",
+      "weight": 2506260,
+      "quality": 99.06531
+    },
+    {
+      "value": "born_in_chaos_v1:sweet_sword",
+      "weight": 5712966,
+      "quality": 90.071335
+    },
+    {
+      "value": "born_in_chaos_v1:trident_hayfork",
+      "weight": 2621655,
+      "quality": 98.73423
+    },
+    {
+      "value": "born_in_chaos_v1:wood_splitter_axe",
+      "weight": 1919059,
+      "quality": 100.75861
+    },
+    {
+      "value": "create:cardboard_sword",
+      "weight": 7215573,
+      "quality": 86.00416
+    },
+    {
+      "value": "deeperdarker:resonarium_axe",
+      "weight": 2479552,
+      "quality": 99.14201
+    },
+    {
+      "value": "deeperdarker:resonarium_sword",
+      "weight": 4696506,
+      "quality": 92.87592
+    },
+    {
+      "value": "deeperdarker:warden_axe",
+      "weight": 1601145,
+      "quality": 101.68136
+    },
+    {
+      "value": "deeperdarker:warden_sword",
+      "weight": 2374285,
+      "quality": 99.444626
+    },
+    {
+      "value": "draconicevolution:chaotic_axe",
+      "weight": 43426440,
+      "quality": 16.406322
+    },
+    {
+      "value": "draconicevolution:chaotic_sword",
+      "weight": 43426440,
+      "quality": 16.406322
+    },
+    {
+      "value": "draconicevolution:draconic_axe",
+      "weight": 52498820,
+      "quality": 7.5174284
+    },
+    {
+      "value": "draconicevolution:draconic_sword",
+      "weight": 52498820,
+      "quality": 7.5174284
+    },
+    {
+      "value": "draconicevolution:wyvern_axe",
+      "weight": 68039984,
+      "quality": 0.25
+    },
+    {
+      "value": "draconicevolution:wyvern_sword",
+      "weight": 68039984,
+      "quality": 0.25
+    },
+    {
+      "value": "enderio:dark_steel_axe",
+      "weight": 2388427,
+      "quality": 99.403946
+    },
+    {
+      "value": "enderio:dark_steel_sword",
+      "weight": 4378967,
+      "quality": 93.76087
+    },
+    {
+      "value": "immersiveengineering:axe_steel",
+      "weight": 1899141,
+      "quality": 100.816284
+    },
+    {
+      "value": "immersiveengineering:sword_steel",
+      "weight": 4944144,
+      "quality": 92.18868
+    },
+    {
+      "value": "mekanismtools:bronze_axe",
+      "weight": 1920623,
+      "quality": 100.754074
+    },
+    {
+      "value": "mekanismtools:bronze_sword",
+      "weight": 7464189,
+      "quality": 85.34029
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_axe",
+      "weight": 7376546,
+      "quality": 85.574036
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_sword",
+      "weight": 10970359,
+      "quality": 76.25168
+    },
+    {
+      "value": "mekanismtools:osmium_axe",
+      "weight": 1585120,
+      "quality": 101.72798
+    },
+    {
+      "value": "mekanismtools:osmium_sword",
+      "weight": 3400158,
+      "quality": 96.515144
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_axe",
+      "weight": 2553459,
+      "quality": 98.929825
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_sword",
+      "weight": 7199036,
+      "quality": 86.04842
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_axe",
+      "weight": 1404716,
+      "quality": 102.25359
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_sword",
+      "weight": 1536405,
+      "quality": 101.869774
+    },
+    {
+      "value": "mekanismtools:steel_axe",
+      "weight": 1677980,
+      "quality": 101.45795
+    },
+    {
+      "value": "mekanismtools:steel_sword",
+      "weight": 4945441,
+      "quality": 92.1851
+    },
+    {
+      "value": "minecraft:crossbow",
+      "weight": 9956194,
+      "quality": 78.82798
+    },
+    {
+      "value": "minecraft:diamond_axe",
+      "weight": 2458849,
+      "quality": 99.201485
+    },
+    {
+      "value": "minecraft:diamond_sword",
+      "weight": 4621647,
+      "quality": 93.084175
+    },
+    {
+      "value": "minecraft:enchanted_book",
+      "weight": 7652081,
+      "quality": 84.84026
+    },
+    {
+      "value": "minecraft:ender_pearl",
+      "weight": 8061196,
+      "quality": 83.756615
+    },
+    {
+      "value": "minecraft:fishing_rod",
+      "weight": 13827642,
+      "quality": 69.22341
+    },
+    {
+      "value": "minecraft:flint_and_steel",
+      "weight": 15223809,
+      "quality": 65.912735
+    },
+    {
+      "value": "minecraft:golden_axe",
+      "weight": 5312028,
+      "quality": 91.17247
+    },
+    {
+      "value": "minecraft:golden_sword",
+      "weight": 19251354,
+      "quality": 56.816875
+    },
+    {
+      "value": "minecraft:iron_axe",
+      "weight": 2596374,
+      "quality": 98.80672
+    },
+    {
+      "value": "minecraft:iron_sword",
+      "weight": 7550912,
+      "quality": 85.10931
+    },
+    {
+      "value": "minecraft:lava_bucket",
+      "weight": 6640971,
+      "quality": 87.548386
+    },
+    {
+      "value": "minecraft:netherite_axe",
+      "weight": 1822558,
+      "quality": 101.03825
+    },
+    {
+      "value": "minecraft:netherite_sword",
+      "weight": 3251177,
+      "quality": 96.93787
+    },
+    {
+      "value": "minecraft:stone_axe",
+      "weight": 2661265,
+      "quality": 98.62072
+    },
+    {
+      "value": "minecraft:stone_sword",
+      "weight": 12717324,
+      "quality": 71.91418
+    },
+    {
+      "value": "minecraft:trident",
+      "weight": 2420637,
+      "quality": 99.31132
+    },
+    {
+      "value": "minecraft:wooden_axe",
+      "weight": 5342142,
+      "quality": 91.089516
+    },
+    {
+      "value": "minecraft:wooden_sword",
+      "weight": 19652842,
+      "quality": 55.947155
+    },
+    {
+      "value": "mowziesmobs:wrought_axe",
+      "weight": 1654994,
+      "quality": 101.524765
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_axe",
+      "weight": 365303,
+      "quality": 105.30837
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_crossbow",
+      "weight": 5065057,
+      "quality": 91.85407
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_fishing_rod",
+      "weight": 6211956,
+      "quality": 88.71028
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_scythe",
+      "weight": 388936,
+      "quality": 105.23839
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_sword",
+      "weight": 401292,
+      "quality": 105.20182
+    },
+    {
+      "value": "mysticalagriculture:creative_soulium_dagger",
+      "weight": 338240,
+      "quality": 105.3885
+    },
+    {
+      "value": "mysticalagriculture:diamond_scythe",
+      "weight": 3337538,
+      "quality": 96.69271
+    },
+    {
+      "value": "mysticalagriculture:hostile_soulium_dagger",
+      "weight": 1909338,
+      "quality": 100.78676
+    },
+    {
+      "value": "mysticalagriculture:imperium_axe",
+      "weight": 1244935,
+      "quality": 102.72024
+    },
+    {
+      "value": "mysticalagriculture:imperium_crossbow",
+      "weight": 6408390,
+      "quality": 88.17734
+    },
+    {
+      "value": "mysticalagriculture:imperium_fishing_rod",
+      "weight": 7069421,
+      "quality": 86.395645
+    },
+    {
+      "value": "mysticalagriculture:imperium_scythe",
+      "weight": 1312105,
+      "quality": 102.52395
+    },
+    {
+      "value": "mysticalagriculture:imperium_sword",
+      "weight": 1345547,
+      "quality": 102.426285
+    },
+    {
+      "value": "mysticalagriculture:inferium_axe",
+      "weight": 1622510,
+      "quality": 101.6192
+    },
+    {
+      "value": "mysticalagriculture:inferium_crossbow",
+      "weight": 8099302,
+      "quality": 83.65603
+    },
+    {
+      "value": "mysticalagriculture:inferium_fishing_rod",
+      "weight": 9184734,
+      "quality": 80.81641
+    },
+    {
+      "value": "mysticalagriculture:inferium_scythe",
+      "weight": 2421881,
+      "quality": 99.30775
+    },
+    {
+      "value": "mysticalagriculture:inferium_sword",
+      "weight": 3269791,
+      "quality": 96.88498
+    },
+    {
+      "value": "mysticalagriculture:passive_soulium_dagger",
+      "weight": 1909338,
+      "quality": 100.78676
+    },
+    {
+      "value": "mysticalagriculture:prudentium_axe",
+      "weight": 1534528,
+      "quality": 101.875244
+    },
+    {
+      "value": "mysticalagriculture:prudentium_crossbow",
+      "weight": 7599628,
+      "quality": 84.979706
+    },
+    {
+      "value": "mysticalagriculture:prudentium_fishing_rod",
+      "weight": 8547427,
+      "quality": 82.47773
+    },
+    {
+      "value": "mysticalagriculture:prudentium_scythe",
+      "weight": 1598971,
+      "quality": 101.68768
+    },
+    {
+      "value": "mysticalagriculture:prudentium_sword",
+      "weight": 1798557,
+      "quality": 101.107864
+    },
+    {
+      "value": "mysticalagriculture:soulium_dagger",
+      "weight": 5013853,
+      "quality": 91.99569
+    },
+    {
+      "value": "mysticalagriculture:supremium_axe",
+      "weight": 427468,
+      "quality": 105.12439
+    },
+    {
+      "value": "mysticalagriculture:supremium_crossbow",
+      "weight": 5065057,
+      "quality": 91.85407
+    },
+    {
+      "value": "mysticalagriculture:supremium_fishing_rod",
+      "weight": 6211956,
+      "quality": 88.71028
+    },
+    {
+      "value": "mysticalagriculture:supremium_scythe",
+      "weight": 454650,
+      "quality": 105.04401
+    },
+    {
+      "value": "mysticalagriculture:supremium_sword",
+      "weight": 468693,
+      "quality": 105.00249
+    },
+    {
+      "value": "mysticalagriculture:tertium_axe",
+      "weight": 1407969,
+      "quality": 102.2441
+    },
+    {
+      "value": "mysticalagriculture:tertium_crossbow",
+      "weight": 7048271,
+      "quality": 86.45237
+    },
+    {
+      "value": "mysticalagriculture:tertium_fishing_rod",
+      "weight": 7856221,
+      "quality": 84.298676
+    },
+    {
+      "value": "mysticalagriculture:tertium_scythe",
+      "weight": 1475771,
+      "quality": 102.04642
+    },
+    {
+      "value": "mysticalagriculture:tertium_sword",
+      "weight": 1508490,
+      "quality": 101.95109
+    },
+    {
+      "value": "strangematter:warp_gun",
+      "weight": 44767400,
+      "quality": 14.876759
+    }
+  ],
+  "OFFHAND": [
+    {
+      "value": "adpother:aerometer",
+      "weight": 46896,
+      "quality": 0.25
+    },
+    {
+      "value": "block_factorys_bosses:dragon_guard_shield",
+      "weight": 2220,
+      "quality": 123.66498
+    },
+    {
+      "value": "block_factorys_bosses:enhanced_shield",
+      "weight": 2975,
+      "quality": 119.702515
+    },
+    {
+      "value": "block_factorys_bosses:frozen_fist",
+      "weight": 3024,
+      "quality": 119.44921
+    },
+    {
+      "value": "draconicevolution:chaotic_bow",
+      "weight": 3647,
+      "quality": 116.23148
+    },
+    {
+      "value": "draconicevolution:draconic_bow",
+      "weight": 3647,
+      "quality": 116.23148
+    },
+    {
+      "value": "draconicevolution:wyvern_bow",
+      "weight": 3647,
+      "quality": 116.23148
+    },
+    {
+      "value": "mekanism:electric_bow",
+      "weight": 3647,
+      "quality": 116.23148
+    },
+    {
+      "value": "mekanismtools:bronze_shield",
+      "weight": 2804,
+      "quality": 120.59296
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_shield",
+      "weight": 2694,
+      "quality": 121.16784
+    },
+    {
+      "value": "mekanismtools:osmium_shield",
+      "weight": 2620,
+      "quality": 121.555855
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_shield",
+      "weight": 2704,
+      "quality": 121.116196
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_shield",
+      "weight": 2298,
+      "quality": 123.24994
+    },
+    {
+      "value": "mekanismtools:steel_shield",
+      "weight": 2707,
+      "quality": 121.10325
+    },
+    {
+      "value": "minecraft:bow",
+      "weight": 2974,
+      "quality": 119.71032
+    },
+    {
+      "value": {
+        "id": "minecraft:lingering_potion",
+        "components": {
+          "minecraft:potion_contents": {
+            "potion": "minecraft:harming"
+          }
+        }
+      },
+      "weight": 3010,
+      "quality": 119.52124
+    },
+    {
+      "value": "minecraft:shield",
+      "weight": 3058,
+      "quality": 119.27033
+    },
+    {
+      "value": "minecraft:snowball",
+      "weight": 8287,
+      "quality": 93.66502
+    },
+    {
+      "value": {
+        "id": "minecraft:splash_potion",
+        "components": {
+          "minecraft:potion_contents": {
+            "potion": "minecraft:harming"
+          }
+        }
+      },
+      "weight": 3010,
+      "quality": 119.52124
+    },
+    {
+      "value": "minecraft:tnt",
+      "weight": 2082,
+      "quality": 124.39385
+    },
+    {
+      "value": "mowziesmobs:blowgun",
+      "weight": 3040,
+      "quality": 119.368385
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_bow",
+      "weight": 1459,
+      "quality": 127.719795
+    },
+    {
+      "value": "mysticalagriculture:imperium_bow",
+      "weight": 1923,
+      "quality": 125.23626
+    },
+    {
+      "value": "mysticalagriculture:inferium_bow",
+      "weight": 2404,
+      "quality": 122.69289
+    },
+    {
+      "value": "mysticalagriculture:prudentium_bow",
+      "weight": 2262,
+      "quality": 123.44042
+    },
+    {
+      "value": "mysticalagriculture:supremium_bow",
+      "weight": 1459,
+      "quality": 127.719795
+    },
+    {
+      "value": "mysticalagriculture:tertium_bow",
+      "weight": 2107,
+      "quality": 124.264015
+    }
+  ],
+  "FEET": [
+    {
+      "value": "block_factorys_bosses:dragon_bones_boots",
+      "weight": 4474,
+      "quality": 649.8939
+    },
+    {
+      "value": "block_factorys_bosses:knight_boots",
+      "weight": 8878,
+      "quality": 619.31213
+    },
+    {
+      "value": "born_in_chaos_v1:dark_metal_armor_boots",
+      "weight": 3233,
+      "quality": 658.65015
+    },
+    {
+      "value": "born_in_chaos_v1:nightmare_mantleofthe_night_boots",
+      "weight": 8031,
+      "quality": 625.1373
+    },
+    {
+      "value": "create:cardboard_boots",
+      "weight": 24976,
+      "quality": 513.79895
+    },
+    {
+      "value": "create:copper_diving_boots",
+      "weight": 21734,
+      "quality": 534.25867
+    },
+    {
+      "value": "create:netherite_diving_boots",
+      "weight": 3368,
+      "quality": 657.6898
+    },
+    {
+      "value": "deeperdarker:resonarium_boots",
+      "weight": 8464,
+      "quality": 622.1578
+    },
+    {
+      "value": "deeperdarker:warden_boots",
+      "weight": 2374,
+      "quality": 664.7427
+    },
+    {
+      "value": "enderio:dark_steel_boots",
+      "weight": 3908,
+      "quality": 653.8841
+    },
+    {
+      "value": "immersiveengineering:armor_faraday_boots",
+      "weight": 33782,
+      "quality": 460.25
+    },
+    {
+      "value": "immersiveengineering:armor_steel_boots",
+      "weight": 9463,
+      "quality": 615.3084
+    },
+    {
+      "value": "mekanism:free_runners",
+      "weight": 185799,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanism:free_runners_armored",
+      "weight": 4837,
+      "quality": 647.3508
+    },
+    {
+      "value": "mekanism:hazmat_boots",
+      "weight": 185799,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanism:mekasuit_boots",
+      "weight": 4465,
+      "quality": 649.9584
+    },
+    {
+      "value": "mekanismtools:bronze_boots",
+      "weight": 8920,
+      "quality": 619.0268
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_boots",
+      "weight": 15642,
+      "quality": 573.7797
+    },
+    {
+      "value": "mekanismtools:osmium_boots",
+      "weight": 4102,
+      "quality": 652.51276
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_boots",
+      "weight": 4995,
+      "quality": 646.2391
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_boots",
+      "weight": 1473,
+      "quality": 671.1561
+    },
+    {
+      "value": "mekanismtools:steel_boots",
+      "weight": 4521,
+      "quality": 649.5674
+    },
+    {
+      "value": "minecraft:chainmail_boots",
+      "weight": 14951,
+      "quality": 578.35016
+    },
+    {
+      "value": "minecraft:diamond_boots",
+      "weight": 3730,
+      "quality": 655.13885
+    },
+    {
+      "value": "minecraft:golden_boots",
+      "weight": 14469,
+      "quality": 581.5552
+    },
+    {
+      "value": "minecraft:iron_boots",
+      "weight": 8213,
+      "quality": 623.8846
+    },
+    {
+      "value": "minecraft:leather_boots",
+      "weight": 16761,
+      "quality": 566.4174
+    },
+    {
+      "value": "minecraft:netherite_boots",
+      "weight": 3368,
+      "quality": 657.6898
+    },
+    {
+      "value": "mowziesmobs:geomancer_sandals",
+      "weight": 9042,
+      "quality": 618.19196
+    },
+    {
+      "value": "mutantmonsters:mutant_skeleton_boots",
+      "weight": 9855,
+      "quality": 612.63245
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_boots",
+      "weight": 530,
+      "quality": 677.90765
+    },
+    {
+      "value": "mysticalagriculture:imperium_boots",
+      "weight": 1575,
+      "quality": 670.4286
+    },
+    {
+      "value": "mysticalagriculture:inferium_boots",
+      "weight": 2672,
+      "quality": 662.61975
+    },
+    {
+      "value": "mysticalagriculture:prudentium_boots",
+      "weight": 2586,
+      "quality": 663.23157
+    },
+    {
+      "value": "mysticalagriculture:supremium_boots",
+      "weight": 1037,
+      "quality": 674.2784
+    },
+    {
+      "value": "mysticalagriculture:tertium_boots",
+      "weight": 1627,
+      "quality": 670.05884
+    }
+  ],
+  "LEGS": [
+    {
+      "value": "block_factorys_bosses:dragon_bones_leggings",
+      "weight": 3411,
+      "quality": 11824.89
+    },
+    {
+      "value": "block_factorys_bosses:knight_leggings",
+      "weight": 5333,
+      "quality": 11744.122
+    },
+    {
+      "value": "born_in_chaos_v1:dark_metal_armor_leggings",
+      "weight": 2210,
+      "quality": 11875.485
+    },
+    {
+      "value": "born_in_chaos_v1:nightmare_mantleofthe_night_leggings",
+      "weight": 3444,
+      "quality": 11823.466
+    },
+    {
+      "value": "create:cardboard_leggings",
+      "weight": 74297,
+      "quality": 9029.257
+    },
+    {
+      "value": "deeperdarker:resonarium_leggings",
+      "weight": 3470,
+      "quality": 11822.408
+    },
+    {
+      "value": "deeperdarker:warden_leggings",
+      "weight": 2268,
+      "quality": 11873.053
+    },
+    {
+      "value": "enderio:dark_steel_leggings",
+      "weight": 3298,
+      "quality": 11829.623
+    },
+    {
+      "value": "immersiveengineering:armor_faraday_leggings",
+      "weight": 38935,
+      "quality": 10376.797
+    },
+    {
+      "value": "immersiveengineering:armor_steel_leggings",
+      "weight": 3521,
+      "quality": 11820.223
+    },
+    {
+      "value": "mekanism:hazmat_pants",
+      "weight": 562663,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanism:mekasuit_pants",
+      "weight": 3666,
+      "quality": 11814.135
+    },
+    {
+      "value": "mekanismtools:bronze_leggings",
+      "weight": 3496,
+      "quality": 11821.3125
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_leggings",
+      "weight": 14893,
+      "quality": 11346.493
+    },
+    {
+      "value": "mekanismtools:osmium_leggings",
+      "weight": 3335,
+      "quality": 11828.066
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_leggings",
+      "weight": 3505,
+      "quality": 11820.909
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_leggings",
+      "weight": 1607,
+      "quality": 11900.917
+    },
+    {
+      "value": "mekanismtools:steel_leggings",
+      "weight": 3422,
+      "quality": 11824.422
+    },
+    {
+      "value": "minecraft:chainmail_leggings",
+      "weight": 7380,
+      "quality": 11658.402
+    },
+    {
+      "value": "minecraft:diamond_leggings",
+      "weight": 2843,
+      "quality": 11848.804
+    },
+    {
+      "value": "minecraft:golden_leggings",
+      "weight": 12820,
+      "quality": 11432.139
+    },
+    {
+      "value": "minecraft:iron_leggings",
+      "weight": 4538,
+      "quality": 11777.48
+    },
+    {
+      "value": "minecraft:leather_leggings",
+      "weight": 25661,
+      "quality": 10906.836
+    },
+    {
+      "value": "minecraft:netherite_leggings",
+      "weight": 2768,
+      "quality": 11851.965
+    },
+    {
+      "value": "mowziesmobs:geomancer_belt",
+      "weight": 3500,
+      "quality": 11821.1455
+    },
+    {
+      "value": "mutantmonsters:mutant_skeleton_leggings",
+      "weight": 5446,
+      "quality": 11739.368
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_leggings",
+      "weight": 920,
+      "quality": 11929.942
+    },
+    {
+      "value": "mysticalagriculture:imperium_leggings",
+      "weight": 1645,
+      "quality": 11899.339
+    },
+    {
+      "value": "mysticalagriculture:inferium_leggings",
+      "weight": 3394,
+      "quality": 11825.577
+    },
+    {
+      "value": "mysticalagriculture:prudentium_leggings",
+      "weight": 2327,
+      "quality": 11870.544
+    },
+    {
+      "value": "mysticalagriculture:supremium_leggings",
+      "weight": 1617,
+      "quality": 11900.53
+    },
+    {
+      "value": "mysticalagriculture:tertium_leggings",
+      "weight": 1664,
+      "quality": 11898.526
+    }
+  ],
+  "CHEST": [
+    {
+      "value": "adpother:diamond_vacuum_bag",
+      "weight": 427001,
+      "quality": 10642.483
+    },
+    {
+      "value": "adpother:gold_vacuum_bag",
+      "weight": 427001,
+      "quality": 10642.483
+    },
+    {
+      "value": "adpother:iron_vacuum_bag",
+      "weight": 427001,
+      "quality": 10642.483
+    },
+    {
+      "value": "block_factorys_bosses:dragon_bones_chestplate",
+      "weight": 3723,
+      "quality": 24540.938
+    },
+    {
+      "value": "block_factorys_bosses:knight_chestplate",
+      "weight": 7683,
+      "quality": 24384.412
+    },
+    {
+      "value": "born_in_chaos_v1:dark_metal_armor_chestplate",
+      "weight": 2036,
+      "quality": 24607.783
+    },
+    {
+      "value": "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate",
+      "weight": 5226,
+      "quality": 24481.453
+    },
+    {
+      "value": "born_in_chaos_v1:spiny_shell_armor_chestplate",
+      "weight": 5275,
+      "quality": 24479.523
+    },
+    {
+      "value": "create:cardboard_chestplate",
+      "weight": 162342,
+      "quality": 18662.154
+    },
+    {
+      "value": "create:copper_backtank",
+      "weight": 18491,
+      "quality": 23959.682
+    },
+    {
+      "value": "create:netherite_backtank",
+      "weight": 3045,
+      "quality": 24567.793
+    },
+    {
+      "value": "deeperdarker:resonarium_chestplate",
+      "weight": 5253,
+      "quality": 24480.416
+    },
+    {
+      "value": "deeperdarker:soul_elytra",
+      "weight": 35746,
+      "quality": 23289.346
+    },
+    {
+      "value": "deeperdarker:warden_chestplate",
+      "weight": 2697,
+      "quality": 24581.59
+    },
+    {
+      "value": "draconicevolution:chaotic_chestpiece",
+      "weight": 3083,
+      "quality": 24566.3
+    },
+    {
+      "value": "draconicevolution:draconic_chestpiece",
+      "weight": 3083,
+      "quality": 24566.3
+    },
+    {
+      "value": "draconicevolution:wyvern_chestpiece",
+      "weight": 3083,
+      "quality": 24566.3
+    },
+    {
+      "value": "enderio:dark_steel_chestplate",
+      "weight": 3663,
+      "quality": 24543.303
+    },
+    {
+      "value": "immersiveengineering:armor_faraday_chestplate",
+      "weight": 39620,
+      "quality": 23140.145
+    },
+    {
+      "value": "immersiveengineering:armor_steel_chestplate",
+      "weight": 5307,
+      "quality": 24478.281
+    },
+    {
+      "value": "immersiveengineering:glider",
+      "weight": 279193,
+      "quality": 14845.502
+    },
+    {
+      "value": "ironjetpacks:jetpack",
+      "weight": 493331,
+      "quality": 8983.196
+    },
+    {
+      "value": "mekanism:hazmat_gown",
+      "weight": 1239344,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanism:hdpe_elytra",
+      "weight": 179552,
+      "quality": 18072.662
+    },
+    {
+      "value": "mekanism:jetpack",
+      "weight": 1239344,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanism:jetpack_armored",
+      "weight": 4094,
+      "quality": 24526.268
+    },
+    {
+      "value": "mekanism:mekasuit_bodyarmor",
+      "weight": 4051,
+      "quality": 24527.959
+    },
+    {
+      "value": "mekanism:scuba_tank",
+      "weight": 1239344,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanismtools:bronze_chestplate",
+      "weight": 5280,
+      "quality": 24479.318
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_chestplate",
+      "weight": 19031,
+      "quality": 23938.549
+    },
+    {
+      "value": "mekanismtools:osmium_chestplate",
+      "weight": 3682,
+      "quality": 24542.572
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_chestplate",
+      "weight": 3774,
+      "quality": 24538.91
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_chestplate",
+      "weight": 1262,
+      "quality": 24638.48
+    },
+    {
+      "value": "mekanismtools:steel_chestplate",
+      "weight": 3730,
+      "quality": 24540.688
+    },
+    {
+      "value": "minecraft:chainmail_chestplate",
+      "weight": 9946,
+      "quality": 24295.166
+    },
+    {
+      "value": "minecraft:diamond_chestplate",
+      "weight": 3103,
+      "quality": 24565.502
+    },
+    {
+      "value": "minecraft:elytra",
+      "weight": 212607,
+      "quality": 16966.91
+    },
+    {
+      "value": "minecraft:golden_chestplate",
+      "weight": 9924,
+      "quality": 24296.008
+    },
+    {
+      "value": "minecraft:iron_chestplate",
+      "weight": 6492,
+      "quality": 24431.428
+    },
+    {
+      "value": "minecraft:leather_chestplate",
+      "weight": 29380,
+      "quality": 23535.543
+    },
+    {
+      "value": "minecraft:netherite_chestplate",
+      "weight": 3062,
+      "quality": 24567.133
+    },
+    {
+      "value": "mowziesmobs:geomancer_robe",
+      "weight": 5283,
+      "quality": 24479.2
+    },
+    {
+      "value": "mutantmonsters:mutant_skeleton_chestplate",
+      "weight": 7790,
+      "quality": 24380.156
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_chestplate",
+      "weight": 1260,
+      "quality": 24638.57
+    },
+    {
+      "value": "mysticalagriculture:imperium_chestplate",
+      "weight": 2697,
+      "quality": 24581.6
+    },
+    {
+      "value": "mysticalagriculture:inferium_chestplate",
+      "weight": 3714,
+      "quality": 24541.295
+    },
+    {
+      "value": "mysticalagriculture:prudentium_chestplate",
+      "weight": 3687,
+      "quality": 24542.371
+    },
+    {
+      "value": "mysticalagriculture:supremium_chestplate",
+      "weight": 2037,
+      "quality": 24607.74
+    },
+    {
+      "value": "mysticalagriculture:tertium_chestplate",
+      "weight": 2721,
+      "quality": 24580.652
+    },
+    {
+      "value": "xycraft_machines:hover_pack",
+      "weight": 59431,
+      "quality": 22384.732
+    }
+  ],
+  "HEAD": [
+    {
+      "value": "adpother:diamond_respirator",
+      "weight": 54759,
+      "quality": 144.48761
+    },
+    {
+      "value": "adpother:gold_respirator",
+      "weight": 69392,
+      "quality": 119.41177
+    },
+    {
+      "value": "adpother:iron_respirator",
+      "weight": 73561,
+      "quality": 112.70359
+    },
+    {
+      "value": "block_factorys_bosses:knight_helmet",
+      "weight": 10178,
+      "quality": 235.61212
+    },
+    {
+      "value": "born_in_chaos_v1:damned_demomans_hat_helmet",
+      "weight": 10112,
+      "quality": 235.76357
+    },
+    {
+      "value": "born_in_chaos_v1:dark_metal_armor_helmet",
+      "weight": 2483,
+      "quality": 253.58516
+    },
+    {
+      "value": "born_in_chaos_v1:killer_rabbit_ears_helmet",
+      "weight": 9988,
+      "quality": 236.04744
+    },
+    {
+      "value": "born_in_chaos_v1:lord_pumpkinheads_hat_helmet",
+      "weight": 4092,
+      "quality": 249.77254
+    },
+    {
+      "value": "born_in_chaos_v1:missionary_hat_helmet",
+      "weight": 5339,
+      "quality": 246.83563
+    },
+    {
+      "value": "born_in_chaos_v1:nightmare_mantleofthe_night_helmet",
+      "weight": 3131,
+      "quality": 252.0463
+    },
+    {
+      "value": "born_in_chaos_v1:spiny_shell_armor_helmet",
+      "weight": 5572,
+      "quality": 246.29008
+    },
+    {
+      "value": "born_in_chaos_v1:spiritual_guide_sombrero_helmet",
+      "weight": 5356,
+      "quality": 246.79646
+    },
+    {
+      "value": "create:cardboard_helmet",
+      "weight": 28662,
+      "quality": 195.141
+    },
+    {
+      "value": "create:copper_diving_helmet",
+      "weight": 12121,
+      "quality": 231.17752
+    },
+    {
+      "value": "create:goggles",
+      "weight": 194769,
+      "quality": 2.4470372
+    },
+    {
+      "value": "create:netherite_diving_helmet",
+      "weight": 3827,
+      "quality": 250.3983
+    },
+    {
+      "value": "deeperdarker:resonarium_helmet",
+      "weight": 5450,
+      "quality": 246.57669
+    },
+    {
+      "value": "deeperdarker:warden_helmet",
+      "weight": 2686,
+      "quality": 253.1014
+    },
+    {
+      "value": "enderio:dark_steel_helmet",
+      "weight": 4396,
+      "quality": 249.05472
+    },
+    {
+      "value": "immersiveengineering:armor_faraday_helmet",
+      "weight": 38516,
+      "quality": 175.1216
+    },
+    {
+      "value": "immersiveengineering:armor_steel_helmet",
+      "weight": 10834,
+      "quality": 234.11003
+    },
+    {
+      "value": "mekanism:hazmat_mask",
+      "weight": 209021,
+      "quality": 0.25
+    },
+    {
+      "value": "mekanism:mekasuit_helmet",
+      "weight": 5023,
+      "quality": 247.57794
+    },
+    {
+      "value": "mekanism:scuba_mask",
+      "weight": 77555,
+      "quality": 106.45909
+    },
+    {
+      "value": "mekanismtools:bronze_helmet",
+      "weight": 5601,
+      "quality": 246.22179
+    },
+    {
+      "value": "mekanismtools:lapis_lazuli_helmet",
+      "weight": 17929,
+      "quality": 218.17784
+    },
+    {
+      "value": "mekanismtools:osmium_helmet",
+      "weight": 2898,
+      "quality": 252.59763
+    },
+    {
+      "value": "mekanismtools:refined_glowstone_helmet",
+      "weight": 5664,
+      "quality": 246.0743
+    },
+    {
+      "value": "mekanismtools:refined_obsidian_helmet",
+      "weight": 1154,
+      "quality": 256.75488
+    },
+    {
+      "value": "mekanismtools:steel_helmet",
+      "weight": 5127,
+      "quality": 247.33434
+    },
+    {
+      "value": "minecraft:chainmail_helmet",
+      "weight": 9185,
+      "quality": 237.89351
+    },
+    {
+      "value": "minecraft:diamond_helmet",
+      "weight": 4239,
+      "quality": 249.42389
+    },
+    {
+      "value": "minecraft:golden_helmet",
+      "weight": 8978,
+      "quality": 238.37038
+    },
+    {
+      "value": "minecraft:iron_helmet",
+      "weight": 9381,
+      "quality": 237.44203
+    },
+    {
+      "value": "minecraft:leather_helmet",
+      "weight": 19193,
+      "quality": 215.3963
+    },
+    {
+      "value": "minecraft:netherite_helmet",
+      "weight": 3827,
+      "quality": 250.3983
+    },
+    {
+      "value": "minecraft:turtle_helmet",
+      "weight": 8927,
+      "quality": 238.48901
+    },
+    {
+      "value": "mowziesmobs:geomancer_beads",
+      "weight": 10388,
+      "quality": 235.13152
+    },
+    {
+      "value": "mowziesmobs:sol_visage",
+      "weight": 8312,
+      "quality": 239.90913
+    },
+    {
+      "value": "mowziesmobs:umvuthana_mask_bliss",
+      "weight": 23037,
+      "quality": 207.0527
+    },
+    {
+      "value": "mowziesmobs:umvuthana_mask_faith",
+      "weight": 23037,
+      "quality": 207.0527
+    },
+    {
+      "value": "mowziesmobs:umvuthana_mask_fear",
+      "weight": 23037,
+      "quality": 207.0527
+    },
+    {
+      "value": "mowziesmobs:umvuthana_mask_fury",
+      "weight": 23037,
+      "quality": 207.0527
+    },
+    {
+      "value": "mowziesmobs:umvuthana_mask_misery",
+      "weight": 23037,
+      "quality": 207.0527
+    },
+    {
+      "value": "mowziesmobs:umvuthana_mask_rage",
+      "weight": 23037,
+      "quality": 207.0527
+    },
+    {
+      "value": "mowziesmobs:wrought_helmet",
+      "weight": 8974,
+      "quality": 238.38123
+    },
+    {
+      "value": "mutantmonsters:mutant_skeleton_skull",
+      "weight": 12384,
+      "quality": 230.58119
+    },
+    {
+      "value": "mysticalagriculture:awakened_supremium_helmet",
+      "weight": 1153,
+      "quality": 256.75806
+    },
+    {
+      "value": "mysticalagriculture:imperium_helmet",
+      "weight": 1785,
+      "quality": 255.24652
+    },
+    {
+      "value": "mysticalagriculture:inferium_helmet",
+      "weight": 4997,
+      "quality": 247.63992
+    },
+    {
+      "value": "mysticalagriculture:prudentium_helmet",
+      "weight": 2932,
+      "quality": 252.51642
+    },
+    {
+      "value": "mysticalagriculture:supremium_helmet",
+      "weight": 1708,
+      "quality": 255.43083
+    },
+    {
+      "value": "mysticalagriculture:tertium_helmet",
+      "weight": 2849,
+      "quality": 252.71428
+    },
+    {
+      "value": "productivebees:bee_nest_diamond_helmet",
+      "weight": 3936,
+      "quality": 250.14082
+    }
+  ]
+}

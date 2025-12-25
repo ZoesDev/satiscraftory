@@ -1,0 +1,4 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:darkness","show_icon":true,"neoforge:cures":["milk","protected_by_totem"],"duration":600},"type":"net.minecraft.world.effect.MobEffectInstance","bookmarkType":"INGREDIENT"}
+]
